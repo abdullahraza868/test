@@ -1,6 +1,6 @@
 # Monkeytronics
 
-<a alt="Nx logo" href="https://data.monkeytronics.co.nz/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5407f3c8e4b0d384103c4348/f45154e3-fbca-40d5-a5ca-355f3e6cf87e/Monkeytronics-Full_Logo.png?format=1500w" width="45"></a>
+<a alt="Monkeytronics logo" href="https://data.monkeytronics.co.nz/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5407f3c8e4b0d384103c4348/f45154e3-fbca-40d5-a5ca-355f3e6cf87e/Monkeytronics-Full_Logo.png?format=1500w" style="width: 100%;"></a>
 
 ## Getting Started
 
