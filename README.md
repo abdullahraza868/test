@@ -16,8 +16,6 @@
 
 ## Run Project
 
-### Airsmart User
-
 
 * For running Airsmart-User:
 ```
