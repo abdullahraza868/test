@@ -7,8 +7,8 @@
 ### Dependencies
 
 * Install node version >= 20.17.0
-* Install yarn globally >= 4.0.1
-* Install nx v16.6.0 globally (If encountring issues on Silicon based chips, install with npm install -g nx)
+* Install yarn globally version >= 4.0.1
+* Install nx v19.8.2 globally (If encountring issues on Silicon based chips, install with npm install -g nx)
 
 ### Installing
 
@@ -22,7 +22,7 @@
 npx nx serve airsmart-user
 ```
 * For running storybook in Airsmart-User:
-```
+1. ```
 npx nx run airsmart-user:storybook
 ```
 * For running Airsmart-User on Android:
