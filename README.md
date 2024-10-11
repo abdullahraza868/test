@@ -35,9 +35,6 @@ npx nx run airsmart-web:sync:android
 npx nx run airsmart-web:open:android
 ```
 `cd apps/airsmart-user` && `yarn install`
-```
-yarn install
-```
 * For running Airsmart-Web on IOS:
 ```
 npx nx run build airsmart-user
@@ -49,9 +46,6 @@ npx nx run airsmart-web:sync:ios
 npx nx run airsmart-web:open:ios
 ```
 `cd apps/airsmart-user` && `yarn install`
-```
-yarn install
-```
 
 ### Production Build
 
