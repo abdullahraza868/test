@@ -22,7 +22,8 @@
 npx nx serve airsmart-user
 ```
 * For running storybook in Airsmart-User:
-1. ```
+1. 
+```
 npx nx run airsmart-user:storybook
 ```
 * For running Airsmart-User on Android:
