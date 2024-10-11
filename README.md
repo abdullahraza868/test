@@ -16,44 +16,44 @@
 
 ## Run Project
 
-* For running Airsmart-Web:
+* For running Airsmart-User:
 ```
 npx nx serve airsmart-user
 ```
-* For running storybook in Airsmart-Web:
+* For running storybook in Airsmart-User:
 ```
 npx nx run airsmart-user:storybook
 ```
-* For running Airsmart-Web on Android:
+* For running Airsmart-User on Android:
 ```
 npx nx run build airsmart-user
 ```
 ```
-npx nx run airsmart-web:sync:android
+npx nx run airsmart-user:sync:android
 ```
 ```
-npx nx run airsmart-web:open:android
+npx nx run airsmart-user:open:android
 ```
 `cd apps/airsmart-user` && `yarn install`
-* For running Airsmart-Web on IOS:
+* For running Airsmart-User on IOS:
 ```
 npx nx run build airsmart-user
 ```
 ```
-npx nx run airsmart-web:sync:ios
+npx nx run airsmart-user:sync:ios
 ```
 ```
-npx nx run airsmart-web:open:ios
+npx nx run airsmart-user:open:ios
 ```
 `cd apps/airsmart-user` && `yarn install`
 
 ### Production Build
 
-* For Airsmart-Web:
+* For Airsmart-User:
 ```
 npx nx build airsmart-user
 ```
-* For storybook in Airsmart-Web:
+* For storybook in Airsmart-User:
 ```
 npx nx run airsmart-user:build-storybook
 ```
